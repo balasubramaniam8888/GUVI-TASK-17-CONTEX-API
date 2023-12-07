@@ -91,7 +91,6 @@ function Section() {
               <span>TOTAL</span>
               <span>${Price1}</span>
             </div>
-         <hr />
           </div>
 
           {/* CARD-1 */}
@@ -236,7 +235,6 @@ function Section() {
               <span>TOTAL</span>
               <span>${Price3}</span>
             </div>
-          <hr />
           </div>
           {/* (2)CARD-2 */}
           <div
@@ -305,7 +303,6 @@ function Section() {
               <span>TOTAL</span>
               <span>${Price4}</span>
             </div>
-          <hr />
           </div>
         </div>
         {/* CONTAINER 2 */}
@@ -379,7 +376,6 @@ function Section() {
               <span>TOTAL</span>
               <span>${Price5}</span>
             </div>
-          <hr />
           </div>
         </div>
         {/* CONTAINER 3 */}
