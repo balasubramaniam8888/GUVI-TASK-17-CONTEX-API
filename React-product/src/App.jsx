@@ -7,8 +7,10 @@ import Navbar from "./Navbar";
 import Section from "./Section";
 
 function App() {
+  //  Calling Created Components in //
   return (
-    <DataProvider>
+  
+      <DataProvider>
       <Navbar />
       <Header />
       <Section />

@@ -24,7 +24,7 @@ function Section() {
 
           <div
             className="card mt-3 mb-3 p-3"
-            style={{ width: "30rem", height: "42rem" }}
+            style={{ width: "30rem", height: "43rem" }}
           >
             <img
               src={state.Data[0].thumbnail}
@@ -91,13 +91,14 @@ function Section() {
               <span>TOTAL</span>
               <span>${Price1}</span>
             </div>
+         <hr />
           </div>
 
           {/* CARD-1 */}
           {/*(1)CARD 2  */}
           <div
             className="card mt-3 mb-3 p-3"
-            style={{ width: "30rem", height: "42rem" }}
+            style={{ width: "30rem", height: "43rem" }}
           >
             <img
               src={state.Data[1].thumbnail}
@@ -172,7 +173,7 @@ function Section() {
         <div className="col border mt-2 d-flex justify-content-evenly gap-2  bg-primary-subtle">
           <div
             className="card mt-3 p-3"
-            style={{ width: "30rem", height: "42rem" }}
+            style={{ width: "30rem", height: "43rem" }}
           >
             <img
               src={state.Data[2].thumbnail}
@@ -235,11 +236,12 @@ function Section() {
               <span>TOTAL</span>
               <span>${Price3}</span>
             </div>
+          <hr />
           </div>
           {/* (2)CARD-2 */}
           <div
             className="card mt-3 mb-3 p-3"
-            style={{ width: "30rem", height: "42rem" }}
+            style={{ width: "30rem", height: "43rem" }}
           >
             <img
               src={state.Data[3].thumbnail}
@@ -303,6 +305,7 @@ function Section() {
               <span>TOTAL</span>
               <span>${Price4}</span>
             </div>
+          <hr />
           </div>
         </div>
         {/* CONTAINER 2 */}
@@ -313,7 +316,7 @@ function Section() {
         <div className="col border mt-2 d-flex justify-content-center bg-danger-subtle">
           <div
             className="card mt-3 mb-2 p-3  m-5"
-            style={{ width: "30rem", height: "43rem" }}
+            style={{ width: "30rem", height: "45rem" }}
           >
             <img
               src={state.Data[4].thumbnail}
@@ -376,6 +379,7 @@ function Section() {
               <span>TOTAL</span>
               <span>${Price5}</span>
             </div>
+          <hr />
           </div>
         </div>
         {/* CONTAINER 3 */}
