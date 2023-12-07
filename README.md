@@ -1,5 +1,5 @@
 # GUVI-TASK-17-CONTEX-API
-#DEPLOYED C⚡tronice  : 
+#DEPLOYED C⚡tronics  : 
 
 #Thanks to vercel for deploying our project
 visit:https://vercel.com/home
