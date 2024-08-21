@@ -38,7 +38,7 @@ function Navbar() {
             </ul>
           </div>
           <a className="navbar-brand" href="#">
-            C⚡-tronics
+            V⚡-tronics
           </a>
         </div>
       </nav>
